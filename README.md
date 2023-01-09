@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 :smiley:
+### I'm Mohammed Alhalafi :smiley:
+### Network Eng. & Programmer :computer: :books:
 
 <!--
 **MMAlhalafi/MMAlhalafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
